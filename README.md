@@ -1,4 +1,4 @@
-## cuaderno
+## cuaderno electronico
 explicación de la clase anterior
 ## progamamos excel
 
